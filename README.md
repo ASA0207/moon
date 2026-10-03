@@ -1,3 +1,10 @@
-# 둥근달 길드 공식 페이지
+# 둥근달 길드 공식 페이지 — Volume Update
 
-`index.html`, `GOSU-RAKUNELAMA.mp3`, `.nojekyll`을 GitHub 저장소 루트에 올리고 GitHub Pages를 활성화하세요.
+- 기본 BGM 볼륨: 16%
+- 음악 재생/일시정지
+- 볼륨 슬라이더
+- 음소거/복원 버튼
+- 현재 볼륨 퍼센트 표시
+- 달 위상 음악 진행 표시
+
+GitHub Pages 저장소 루트에 파일들을 그대로 업로드하면 됩니다.
